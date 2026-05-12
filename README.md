@@ -14,6 +14,7 @@
 - JavaScript
 - HTML e CSS
 - Desenvolvimento Android
+- Rede computadores
 
 
 
