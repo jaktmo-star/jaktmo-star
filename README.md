@@ -15,6 +15,7 @@
 - HTML e CSS
 - Desenvolvimento Android
 - Rede computadores
+- Docker e sistemas distribuídos
 
 
 
