@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Elcio Silveira Mello 👋
 
-<!--
-**jaktmo-star/jaktmo-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🚀 Atualmente estudando Python e APIs pelo Senai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Conhecimentos 
+
+
+- Python
+- Integração com APIs
+- Git e GitHub
+- JavaScript
+- HTML e CSS
+- Desenvolvimento Android
+
+
+
+## 🎯 Objetivo
+
+
+Buscando aprender e crescer profissionalmente na área de desenvolvimento de software e tecnologia.
+
+
+## 📫 Contato
+
+
+- GitHub: https://github.com/jaktmo_star
+- LinkedIn: www.linkedin.com/in/elcio-silveira-mello-83127a34a
+
+
+
+
