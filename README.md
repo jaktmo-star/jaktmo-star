@@ -5,7 +5,7 @@
 
 🎓 Python e APIs pelo Senai
 
-🚀 Inteligência Artificiais Generativas Aplicada a Programação - ChatGPT (Estudando pelo Senai) 
+🚀 Inteligência Artificiais Generativas Aplicada a Programação - ChatGPT (Atualmente Estudando pelo Senai) 
 
 
 ## 📚 Conhecimentos 
