@@ -2,7 +2,9 @@
 
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+
 🎓 Python e APIs pelo Senai
+
 🚀 Inteligência Artificiais Generativas Aplicada a Programação - ChatGPT (Estudando pelo Senai) 
 
 
