@@ -2,7 +2,8 @@
 
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-🚀 Atualmente estudando Python e APIs pelo Senai
+🎓 Python e APIs pelo Senai
+🚀 Inteligência Artificiais Generativas Aplicada a Programação - ChatGPT (Estudando pelo Senai) 
 
 
 ## 📚 Conhecimentos 
