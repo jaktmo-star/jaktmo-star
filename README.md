@@ -5,7 +5,6 @@
 **Desenvolvedor Python · Automação de Processos · Integração de APIs**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcio-silveira-mello-83127a34a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaktmo-star)
 [![Localização](https://img.shields.io/badge/Mairinque-SP-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -84,7 +83,6 @@ Atualmente estudo **Inteligência Artificial Generativa aplicada à programaçã
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcio-silveira-mello-83127a34a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaktmo-star)
 
 **Aberto a oportunidades, parcerias e trocas de conhecimento.**
 
